@@ -1,9 +1,9 @@
-package LabEx1;
+package labEx2;
 
 import Drawing.Canvas;
 import Drawing.Circle;
-import Drawing.Triangle;
 import Drawing.Rectangle;
+import Drawing.Triangle;
 
 import java.awt.*;
 
@@ -19,7 +19,7 @@ import java.awt.*;
  * @version 2205
  */
 
-public class Picture
+public class Picture2
 {
     private Canvas canvas;
     private Rectangle wall;
@@ -30,7 +30,7 @@ public class Picture
     /**
      * Constructor for objects of class Picture
      */
-    public Picture()
+    public Picture2()
     {
        canvas = new Canvas("Picture", 400, 400);
     }
@@ -40,13 +40,13 @@ public class Picture
      */
     public void draw()
     {
-        wall = new Rectangle(40, 140, 100, 100, Color.RED, true);
+        wall = new Rectangle(40, 140, 100, 100, Color.BLUE, true);
 
         window = new Rectangle(60, 160, 30, 30, true);
 
-        roof = new Triangle(20, 100, 140, 40, Color.GREEN, true);  
+        roof = new Triangle(20, 100, 140, 40, Color.magenta, true);
         
-        sun = new Circle(180, 20, 20, Color.YELLOW, true);
+        sun = new Circle(180, 20, 20, Color.RED, true);
         
         canvas.draw(wall);
         canvas.draw(window);

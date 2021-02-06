@@ -1,9 +1,9 @@
-package LabEx1;
+package labEx2;
 
 public class TestPicture {
 
     public static void main(String[] args) {
-        Picture1 gr = new Picture1();
+        Picture2 gr = new Picture2();
         gr.draw();
 
     }
