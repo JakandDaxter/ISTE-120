@@ -1,6 +1,4 @@
-# ISTE-120
-A first course in using the object-oriented approach to solve problems in the information domain. Students will learn to design software solutions using the object-oriented approach, to visually model systems using UML, to implement software solutions using a contemporary programming language, and to test these software solutions. Additional topics include thinking in object-oriented terms, and problem definition. Programming projects will be required.
-
+**ISTE- 120 – Computational Problem Solving for the Information Domain I Page 1 of 9**
 
 # ISTE- 120 - Computer Problem Solving for the Information Domain I
 
@@ -303,7 +301,109 @@ Comprehensive 15 %
 # Spring 2021 (2205) Weekly Course Schedule (subject to change)
 
 ```
-![Schedule](ScheduleISTE.PNG)
+Jan 25 - Jan 31
+===============
+Day01 - Introduction and Anatomy of a program
+Day02 - OBJECTS | - Simple Graphics, Constructors, Method calls
+Day03 - LAB1 - Simple Object
+
+
+Feb1-7
+==============
+Day04 - OBJECTS II - Simple methods, accessors, mutators, test class.
+Day05 - OBJECTS Ill - review, best practices, Student class
+Day06 - Lab02 - Using Objects
+
+
+Feb 8-14
+=============
+Day07 - CLASSES | - BankAccount Class
+Day08 - CLASSES II - Compiling, ICE SalariedEmployee
+Day09 - Lab03 — Calculators
+
+
+Feb 15 - 21
+==============
+Day10 - Classes III - Scope, Persistence, Overloading, Static Methods
+Day11 - Lab04 - Classes and Objects
+Day12 - Practicale Exam 1
+
+
+Feb 22 - 28
+=============
+Day13 - Datatypes and Statements - CashRegister
+Day14 - String Numeric Conversion, Scanner, Printf
+Day15 - Lab05 Implementing Classes and Datatypes
+
+
+Mar 1-7
+============
+Day16 - Decisions | - if, if-else
+Day17 - Decisions II - else-if, switch, boolean algebra
+Day18 - Lab06 - Expressions and Scanner
+
+
+Mar 8 - 14
+============
+Day19 - Repetition | - while and do-while
+Day20 - Repetition II - for
+Day21 - Lab0O7 - Decisions
+
+Mar 15 - 21
+=============
+Day22 - Practical Exam 2
+Day23 - Lab08 - Loops
+Day24 - Arrays
+
+
+Mar 22 - 28
+=============
+Day25 - ArrayList
+Day26 - LabO9 - Arrays and ArrayLists
+
+
+Mar 29 - Apr 4
+===============
+Day27 - 2D Arrays
+Day28 - Inheritance |
+Day29 - Lab 10 - 2D Arrays
+
+
+Apr5-11
+===============
+Day30 - Inheritance II
+Day31 - Inheritance III, 
+Day32 - Lab11 - Inheritance
+
+ 
+
+Apr 12 - 18
+===============
+Day33 - Interfaces
+Day34 - Practical Exam 3
+Day35 - Lab12 - Interfaces
+
+
+Apr 19-25
+===============
+Day36 - Character IO and Exceptions
+Day37 - Lab13 - Character IO and Exceptions
+Day38 - Byte (binary) 1O
+
+
+
+Apr 26 - May 2
+===============
+Day39 - Lab14 — Exceptions
+Day40 - Lab15 - Binary |O
+Day41 - Practicale Exam 4
+
+
+May 3-5 -- May 5 - TBD
+========================
+
+May 7, 10 - 13  -- FINAL EXAMS
+==============================
 ```
 
 # Additional Policies and Procedures:
