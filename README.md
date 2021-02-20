@@ -303,10 +303,7 @@ Comprehensive 15 %
 # Spring 2021 (2205) Weekly Course Schedule (subject to change)
 
 ```
-![Schedule](ScheduleISTE.png)
-<img src="ScheduleISTE.png"
-     alt="MScheduleISTE"
-     style="float: left; margin-right: 10px;" />
+![Schedule](ScheduleISTE.PNG)
 ```
 
 # Additional Policies and Procedures:
